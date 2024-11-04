@@ -11,6 +11,7 @@
 | [0735-asteroid-collision](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Stack
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0735-asteroid-collision](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 | [0503-next-greater-element-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
