@@ -72,6 +72,7 @@
 | [0042-trapping-rain-water](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@
 | [0055-jump-game](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
@@ -94,6 +96,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0812-rotate-string) |
 ## String Matching
