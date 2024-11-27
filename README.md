@@ -157,6 +157,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
@@ -197,4 +198,12 @@
 |  |
 | ------- |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
