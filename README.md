@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0055-jump-game) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -148,6 +150,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 ## Design
 |  |
@@ -212,4 +215,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
