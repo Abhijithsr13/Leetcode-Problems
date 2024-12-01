@@ -26,6 +26,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -71,6 +72,7 @@
 | [0460-lfu-cache](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
@@ -180,11 +183,13 @@
 | [0435-non-overlapping-intervals](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
 ## Binary Search
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
 |  |
