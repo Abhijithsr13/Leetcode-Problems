@@ -84,6 +84,7 @@
 | [0455-assign-cookies](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
@@ -113,11 +114,13 @@
 | [0647-palindromic-substrings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Greedy
 |  |
 | ------- |
