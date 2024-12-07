@@ -1,21 +1,19 @@
 class Solution {
 public:
     int minimumSize(vector<int>& nums, int maxOperations) {
-        // Helper function to check if a given penalty is feasible
+        int left = 1, right = *max_element(nums.begin(), nums.end());
+        
+        // Lambda function to check feasibility of maxPenalty
         auto canDivide = [&](int maxPenalty) {
             int operations = 0;
             for (int num : nums) {
-                if (num > maxPenalty) {
-                    // Number of operations needed to make num <= maxPenalty
-                    operations += (num - 1) / maxPenalty;
-                    if (operations > maxOperations) return false; // Too many operations
-                }
+                operations += (num - 1) / maxPenalty; // Efficient operation count
+                if (operations > maxOperations) return false; // Early exit for infeasibility
             }
-            return operations <= maxOperations;
+            return true;
         };
-
-        // Binary search for the minimum possible penalty
-        int left = 1, right = *max_element(nums.begin(), nums.end());
+        
+        // Binary search
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (canDivide(mid)) {
@@ -24,6 +22,7 @@ public:
                 left = mid + 1; // Increase the penalty
             }
         }
+        
         return left;
     }
 };
