@@ -2,28 +2,27 @@ class Solution {
 public:
     int minimumSize(vector<int>& nums, int maxOperations) {
         int left = 1, right = *max_element(nums.begin(), nums.end());
-
+        
         // Lambda function to check feasibility of maxPenalty
         auto canDivide = [&](int maxPenalty) {
             int operations = 0;
             for (int num : nums) {
-                // Add required splits for this bag if its size exceeds maxPenalty
-                operations += (num - 1) / maxPenalty;
-                // Early exit if operations exceed allowed limit
-                if (operations > maxOperations) return false;
+                operations += (num - 1) / maxPenalty; // Efficient operation count
+                if (operations > maxOperations) return false; // Early exit for infeasibility
             }
             return true;
         };
-
-        // Binary search to minimize the penalty
+        
+        // Binary search
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (canDivide(mid)) {
-                right = mid; // A smaller penalty might be possible
+                right = mid; // Try for a smaller penalty
             } else {
                 left = mid + 1; // Increase the penalty
             }
         }
-        return left; // Minimum penalty achievable
+        
+        return left;
     }
 };
