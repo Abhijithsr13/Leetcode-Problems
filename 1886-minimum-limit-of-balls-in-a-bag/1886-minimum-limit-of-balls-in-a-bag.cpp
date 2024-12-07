@@ -3,29 +3,26 @@ public:
     int minimumSize(vector<int>& nums, int maxOperations) {
         int left = 1, right = *max_element(nums.begin(), nums.end());
         
-        // Function to check if we can achieve the maxPenalty
+        // Lambda function to check feasibility of maxPenalty
         auto canDivide = [&](int maxPenalty) {
             int operations = 0;
             for (int num : nums) {
-                if (num > maxPenalty) {
-                    // Calculate operations needed
-                    operations += (num - 1) / maxPenalty;
-                    // Early termination if operations exceed maxOperations
-                    if (operations > maxOperations) return false;
-                }
+                operations += (num - 1) / maxPenalty; // Efficient operation count
+                if (operations > maxOperations) return false; // Early exit for infeasibility
             }
             return true;
         };
-
-        // Perform binary search for the minimum penalty
+        
+        // Binary search
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (canDivide(mid)) {
-                right = mid; // Try smaller penalties
+                right = mid; // Try for a smaller penalty
             } else {
-                left = mid + 1; // Increase penalty
+                left = mid + 1; // Increase the penalty
             }
         }
+        
         return left;
     }
 };
