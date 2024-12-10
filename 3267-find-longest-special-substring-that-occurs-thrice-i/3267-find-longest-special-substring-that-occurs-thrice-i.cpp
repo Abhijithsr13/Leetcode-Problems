@@ -2,40 +2,41 @@ class Solution {
 public:
     int maximumLength(string s) {
         int n = s.size();
-        int longestLength = -1;
+    if (n < 3) return -1; // No substring can appear at least three times
 
-        // Iterate over all possible lengths of substrings
-        for (int k = 1; k <= n; ++k) {
-            unordered_map<string, int> countMap;
+    int longestLength = -1;
 
-            // Sliding window to count substrings of length k
-            for (int i = 0; i <= n - k; ++i) {
-                string substring = s.substr(i, k);
+    // Iterate over possible lengths of substrings
+    for (int k = 1; k <= n; ++k) {
+        unordered_map<string, int> countMap;
+        int validCount = 0;
 
-                // Check if the substring is special (all characters are
-                // identical)
-                bool isSpecial = true;
-                for (int j = 1; j < k; ++j) {
-                    if (substring[j] != substring[0]) {
-                        isSpecial = false;
-                        break;
-                    }
-                }
+        // Use a sliding window to extract substrings of length k
+        for (int i = 0; i <= n - k; ++i) {
+            string substring = s.substr(i, k);
 
-                if (isSpecial) {
-                    countMap[substring]++;
+            // Check if the substring is "special" (all characters are identical)
+            bool isSpecial = true;
+            for (int j = 1; j < k; ++j) {
+                if (substring[j] != substring[0]) {
+                    isSpecial = false;
+                    break;
                 }
             }
 
-            // Check for the longest special substring occurring at least three
-            // times
-            for (const auto& entry : countMap) {
-                if (entry.second >= 3) {
+            if (isSpecial) {
+                countMap[substring]++;
+                if (countMap[substring] == 3) { // Found at least 3 occurrences
+                    validCount++;
                     longestLength = max(longestLength, k);
                 }
             }
         }
 
-        return longestLength;
+        // Early exit if no substring of length k is valid
+        if (validCount == 0) break;
+    }
+
+    return longestLength;
     }
 };
