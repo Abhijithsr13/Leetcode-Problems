@@ -39,6 +39,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3427-special-array-ii) |
 ## Stack
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [2868-continuous-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2868-continuous-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
@@ -192,10 +195,12 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [2868-continuous-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -306,4 +311,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
