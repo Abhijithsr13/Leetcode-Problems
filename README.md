@@ -143,6 +143,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
@@ -281,6 +282,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
@@ -317,6 +319,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Counting
 |  |
 | ------- |
@@ -335,6 +338,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -351,6 +355,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Ordered Set
