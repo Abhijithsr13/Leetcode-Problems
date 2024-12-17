@@ -95,6 +95,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -292,6 +293,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,6 +306,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -370,6 +374,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Ordered Set
 |  |
 | ------- |
