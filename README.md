@@ -258,6 +258,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -349,6 +350,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -369,6 +371,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -379,4 +382,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
