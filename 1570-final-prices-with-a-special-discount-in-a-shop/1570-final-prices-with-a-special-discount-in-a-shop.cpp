@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> finalPrices(vector<int>& prices) {
-        vector<int>ans;
+         vector<int>ans;
         int n=prices.size();
         for(int i=0;i<n;i++){
             int dis=prices[i];
