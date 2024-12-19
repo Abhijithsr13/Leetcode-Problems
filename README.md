@@ -22,6 +22,7 @@
 | [0503-next-greater-element-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -59,6 +60,7 @@
 | [0503-next-greater-element-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -73,6 +75,7 @@
 | [0402-remove-k-digits](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -177,6 +180,7 @@
 | [0455-assign-cookies](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -250,6 +254,7 @@
 | [0018-4sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0018-4sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
