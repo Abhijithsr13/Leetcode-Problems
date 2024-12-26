@@ -20,6 +20,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0605-can-place-flowers) |
@@ -137,6 +138,7 @@
 | [0085-maximal-rectangle](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -358,6 +360,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0494-target-sum) |
 ## Counting
 |  |
 | ------- |
