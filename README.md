@@ -392,6 +392,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -420,6 +421,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -440,6 +442,7 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
