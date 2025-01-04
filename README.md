@@ -108,6 +108,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -171,6 +172,7 @@
 | [0812-rotate-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -300,6 +302,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3427-special-array-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3427-special-array-ii) |
 ## Depth-First Search
 |  |
@@ -444,6 +447,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
