@@ -30,6 +30,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -74,6 +75,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
@@ -90,6 +92,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
@@ -420,6 +423,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -453,6 +457,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Ordered Set
@@ -478,6 +483,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Indexed Tree
 |  |
 | ------- |
