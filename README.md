@@ -81,6 +81,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
@@ -193,6 +194,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -225,6 +227,7 @@
 | [0890-lemonade-change](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Queue
