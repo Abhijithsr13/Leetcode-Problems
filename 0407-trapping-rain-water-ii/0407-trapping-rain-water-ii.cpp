@@ -3,49 +3,47 @@ public:
     int trapRainWater(vector<vector<int>>& heightMap) {
         int m = heightMap.size(), n = heightMap[0].size();
         if (m <= 2 || n <= 2)
-            return 0; // No water can be trapped if the grid is too small.
+            return 0; // No space for trapping water in small grids.
 
-        // Min-heap to store cells in the format: {height, x, y}
-        priority_queue<pair<int, pair<int, int>>,
-                       vector<pair<int, pair<int, int>>>, greater<>>
-            pq;
+        // Min-heap to store cells as {height, index}
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
 
-        // Visited array to keep track of processed cells
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
-
-        // Add all boundary cells to the min-heap
+        // Add boundary cells to the heap and mark them visited by setting their
+        // height to -1
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
                 if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
-                    pq.push({heightMap[i][j], {i, j}});
-                    visited[i][j] = true;
+                    pq.push({heightMap[i][j], i * n + j});
+                    heightMap[i][j] = -1; // Mark as visited
                 }
             }
         }
 
         // Directions for moving to neighboring cells
-        vector<pair<int, int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+        vector<int> directions = {-1, 0, 1, 0, -1}; // Combines dx and dy
+
         int trappedWater = 0;
 
         while (!pq.empty()) {
-            auto [height, cell] = pq.top();
+            auto [height, idx] = pq.top();
             pq.pop();
-            int x = cell.first, y = cell.second;
 
-            for (auto& dir : directions) {
-                int nx = x + dir.first, ny = y + dir.second;
+            int x = idx / n, y = idx % n;
 
-                // Skip out-of-bound or already visited cells
-                if (nx < 0 || nx >= m || ny < 0 || ny >= n || visited[nx][ny])
+            for (int d = 0; d < 4; ++d) {
+                int nx = x + directions[d], ny = y + directions[d + 1];
+
+                // Check boundaries and if the cell is already visited
+                if (nx < 0 || nx >= m || ny < 0 || ny >= n ||
+                    heightMap[nx][ny] == -1)
                     continue;
 
-                // Calculate trapped water if the current cell height is higher
+                // Calculate trapped water for the neighboring cell
                 trappedWater += max(0, height - heightMap[nx][ny]);
 
-                // Update the height of the neighbor to the max of its current
-                // height or water level
-                pq.push({max(height, heightMap[nx][ny]), {nx, ny}});
-                visited[nx][ny] = true;
+                // Push the updated cell into the heap and mark it as visited
+                pq.push({max(height, heightMap[nx][ny]), nx * n + ny});
+                heightMap[nx][ny] = -1; // Mark as visited
             }
         }
 
