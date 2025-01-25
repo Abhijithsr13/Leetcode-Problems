@@ -64,6 +64,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -335,6 +336,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
