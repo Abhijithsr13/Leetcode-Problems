@@ -391,6 +391,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -426,6 +427,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Math
 |  |
 | ------- |
@@ -591,4 +593,5 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
