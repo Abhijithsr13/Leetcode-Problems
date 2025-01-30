@@ -424,6 +424,7 @@
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -431,6 +432,7 @@
 | [0684-redundant-connection](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
@@ -442,6 +444,7 @@
 | [1558-course-schedule-iv](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Math
 |  |
 | ------- |
