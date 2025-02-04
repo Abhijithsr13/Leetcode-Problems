@@ -49,6 +49,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
