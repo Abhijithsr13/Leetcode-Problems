@@ -56,6 +56,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -145,6 +146,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -469,6 +471,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -489,6 +492,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
