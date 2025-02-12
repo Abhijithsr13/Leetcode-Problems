@@ -58,6 +58,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -149,6 +150,7 @@
 | [2434-design-a-number-container-system](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -297,6 +299,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
@@ -357,6 +360,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
