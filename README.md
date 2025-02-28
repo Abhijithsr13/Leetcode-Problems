@@ -198,6 +198,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
@@ -230,6 +231,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0952-word-subsets) |
+| [1170-shortest-common-supersequence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
