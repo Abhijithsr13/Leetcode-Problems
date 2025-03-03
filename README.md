@@ -57,6 +57,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
@@ -181,6 +182,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -212,6 +214,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
