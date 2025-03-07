@@ -502,6 +502,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -669,4 +670,8 @@
 | [0820-find-eventual-safe-states](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
