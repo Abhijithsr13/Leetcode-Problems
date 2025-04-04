@@ -149,6 +149,7 @@
 | [0952-word-subsets](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -448,6 +449,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
@@ -473,6 +475,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
@@ -567,6 +570,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -604,6 +608,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Ordered Set
