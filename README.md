@@ -38,6 +38,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -347,6 +348,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -452,6 +454,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
@@ -479,6 +482,7 @@
 | [0854-making-a-large-island](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -493,6 +497,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0854-making-a-large-island) |
+| [1073-number-of-enclaves](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2213-find-all-people-with-secret](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2213-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
