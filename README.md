@@ -378,6 +378,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0460-lfu-cache) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -523,6 +524,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
