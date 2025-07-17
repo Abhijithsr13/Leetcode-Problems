@@ -92,6 +92,7 @@
 | [3429-special-array-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -222,6 +223,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Simulation
 |  |
 | ------- |
