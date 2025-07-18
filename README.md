@@ -64,6 +64,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
@@ -222,6 +223,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Simulation
@@ -332,6 +334,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
