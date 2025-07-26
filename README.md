@@ -98,6 +98,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Stack
 |  |
 | ------- |
@@ -445,6 +446,7 @@
 | [2145-grid-game](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3427-special-array-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -690,6 +692,7 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Trie
 |  |
 | ------- |
@@ -736,4 +739,5 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
