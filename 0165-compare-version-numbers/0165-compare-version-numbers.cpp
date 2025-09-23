@@ -1,7 +1,16 @@
 class Solution {
 public:
+   vector<int> helper(string s, int idx) {
+        int num = 0;
+        while (idx < s.size()) {
+            if (s[idx] == '.') break;
+            else num = num * 10 + (s[idx] - '0');
+            idx++;
+        }
+        return {num, idx + 1};
+    }
     int compareVersion(string version1, string version2) {
-          int i = 0, j = 0;
+         int i = 0, j = 0;
         vector<int> result1, result2;
         while (i < version1.size() || j < version2.size()) {
             result1 = helper(version1, i);
@@ -13,15 +22,4 @@ public:
         }
         return 0;
     }
-    vector<int> helper(string s, int idx) {
-        int num = 0;
-        while (idx < s.size()) {
-            if (s[idx] == '.') break;
-            else num = num * 10 + (s[idx] - '0');
-            idx++;
-        }
-        return {num, idx + 1};
-    }
-
-
 };
