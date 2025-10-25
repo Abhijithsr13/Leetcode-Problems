@@ -15,6 +15,7 @@
 | [0085-maximal-rectangle](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -220,6 +221,7 @@
 | [0055-jump-game](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Abhijithsr13/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
